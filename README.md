@@ -1,4 +1,4 @@
-:
+
 
 🚢 Titanic Dataset Analysis
 
@@ -98,6 +98,6 @@ Or locally:
 python titanic_analysis.py
 
 
-✅ Repository Link: https://github.com/Gayathripanchavati/SCT_DS_02/new/main?filename=README.md
+✅ Repository Link: https://github.com/Gayathripanchavati/SCT_Ds_02.git
 
 #SkillCraftTechnology #TitanicDataset #DataScience #MachineLearning #EDA #Python #RandomForest #LogisticRegression
